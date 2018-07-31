@@ -2,9 +2,9 @@
   "items": [
     {
       "Clusters": {
-        "cluster_name": "tdk",
+        "cluster_name": "MyCluster",
         "provisioning_state": "INSTALLED",
-        "version": "HDP2.0.1"
+        "version": "HDP-2.7.0"
       }
     }
   ]
